@@ -5,12 +5,13 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
 	
-	![hge](https://user-images.githubusercontent.com/86381942/209450966-dcfe8175-b2eb-49a8-9dd2-0d8b865119d3.png)
+
 
 </head>
 <body lang="en-US" link="#000080" vlink="#800000" dir="ltr">
 <ol><li><p style="line-height: 0.29in; orphans: 2; widows: 2; margin-bottom: 0in; border: none; padding: 0in">
-	<strong><em><span style="font-variant: normal"><font color="#292929"><font face="source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif"><font size="4" style="font-size: 15pt"><span style="letter-spacing: normal"><i><b>dir</b></i></span></font></font></font></span></em></strong><strong><span style="font-variant: normal"><font color="#292929"><font face="source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif"><font size="4" style="font-size: 15pt"><span style="letter-spacing: normal"><span style="font-style: normal"><b>:</b></span></span></font></font></font></span></strong><span style="font-variant: normal"><font color="#292929"><font face="source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif"><font size="4" style="font-size: 15pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">&nbsp;This
+	<strong><em><span style="font-variant: normal"><font color="#292929"><font face="source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif"><font size="4" style="font-size: 15pt"><span style="letter-spacing: normal"><i><b>dir</b></i></span></font></font></font></span></em></strong><strong><span style="font-variant: normal"><font color="#292929"><font face="source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif"><font size="4" style="font-size: 15pt"><span style="letter-spacing: normal"><span style="font-style: normal"><b>:</b></span></span></font></font></font></span></strong><span style="font-variant: normal"><font color="#292929"><font face="source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif"><font size="4" style="font-size: 15pt"><span style="letter-spacing: normal"><span style="font-style: normal![hge](https://user-images.githubusercontent.com/86381942/209450991-c9c9ae92-b729-4642-92b3-818bfa5e6ad3.png)
+"><span style="font-weight: normal">&nbsp;This
 	command is used to display a list of files and directories in a
 	directory. You can use various options with this command to
 	customize the output, such as&nbsp;</span></span></span></font></font></font></span><strong><span style="font-variant: normal"><font color="#292929"><font face="source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif"><font size="4" style="font-size: 15pt"><span style="letter-spacing: normal"><span style="font-style: normal"><b>/p&nbsp;</b></span></span></font></font></font></span></strong><span style="font-variant: normal"><font color="#292929"><font face="source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif"><font size="4" style="font-size: 15pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">to
