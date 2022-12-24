@@ -4,13 +4,9 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	![hge](https://user-images.githubusercontent.com/86381942/209450957-6e6ead53-8e84-4a2d-a13f-2c6121680ba0.png)
+	
+	![hge](https://user-images.githubusercontent.com/86381942/209450966-dcfe8175-b2eb-49a8-9dd2-0d8b865119d3.png)
 
-		@page { size: 8.5in 11in; margin: 0.79in }
-		p { line-height: 115%; margin-bottom: 0.1in; background: transparent }
-		strong { font-weight: bold }
-		em { font-style: italic }
-	</style>
 </head>
 <body lang="en-US" link="#000080" vlink="#800000" dir="ltr">
 <ol><li><p style="line-height: 0.29in; orphans: 2; widows: 2; margin-bottom: 0in; border: none; padding: 0in">
