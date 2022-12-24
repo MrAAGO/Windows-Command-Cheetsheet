@@ -4,11 +4,8 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 7.4.2.3 (Windows)"/>
-	<meta name="created" content="2022-12-24T12:51:26.067000000"/>
-	<meta name="changed" content="2022-12-24T12:59:30.755000000"/>
-	<style type="text/css">
+	![hge](https://user-images.githubusercontent.com/86381942/209450957-6e6ead53-8e84-4a2d-a13f-2c6121680ba0.png)
+
 		@page { size: 8.5in 11in; margin: 0.79in }
 		p { line-height: 115%; margin-bottom: 0.1in; background: transparent }
 		strong { font-weight: bold }
